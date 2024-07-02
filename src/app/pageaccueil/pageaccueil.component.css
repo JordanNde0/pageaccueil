@@ -1,0 +1,21 @@
+.navbar1{
+    background-color: rgb(37, 34, 41);
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+#div2{
+    background-color: rgb(77, 29, 141);
+    align-items: center;
+    justify-content: center;
+
+}
+body{
+    background-image: url('../assets/images/v4.jpg');
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+h1{
+   color: rgb(239, 228, 214);
+}
